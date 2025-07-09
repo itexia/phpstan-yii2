@@ -1,5 +1,11 @@
 # Yii2 extension for PHPStan
 
+## Alternatives
+
+Go directly with [official yii2 phpstan package](https://github.com/yii2-extensions/phpstan)
+
+## Overview
+
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.2-8892BF.svg)](https://php.net/)
 [![Latest Stable Version](https://img.shields.io/packagist/v/proget-hq/phpstan-yii2.svg)](https://packagist.org/packages/proget-hq/phpstan-yii2)
 [![Build Status](https://github.com/proget-hq/phpstan-yii2/workflows/build/badge.svg)](https://github.com/proget-hq/phpstan-yii2/actions?query=workflow%3Abuild)
